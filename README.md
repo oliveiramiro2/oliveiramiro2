@@ -4,7 +4,6 @@
 <br />
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oliveiramiro2/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ramiromares95@gmail.com)
 [![WebSite](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portifolio-ramiro.netlify.app/)
 
 <br />
@@ -58,3 +57,8 @@
 <br />
 
 ### Aprendendo um pouco a cada dia 😊
+
+<br />
+
+## Contato:
+ramiromares95@gmail.com | (37) 98803-7773
