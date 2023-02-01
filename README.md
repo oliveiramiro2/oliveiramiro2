@@ -60,5 +60,5 @@
 
 <br />
 
-## Contato:
+## Contact:
 ramiromares95@gmail.com | (37) 98803-7773
