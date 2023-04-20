@@ -58,7 +58,7 @@
 </div>
 <br />
 
-### Aprendendo um pouco a cada dia 😊
+## A step everyday xD
 
 <br />
 
