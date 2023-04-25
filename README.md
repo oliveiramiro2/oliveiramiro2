@@ -14,11 +14,11 @@
 
 <br />
 
-[![Ramiro GitHub stats](https://github-readme-stats.vercel.app/api?username=oliveiramiro2&count_private&show_owner&show_icons=true&theme=highcontrast&border_radius=9)](https://github.com/anuraghazra/github-readme-stats)
+[![Ramiro GitHub stats](https://github-readme-stats.vercel.app/api?username=oliveiramiro2&count_private=true&show_owner=true&show_icons=true&theme=highcontrast&border_radius=9)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
-![Ramiro GitHub Language Used](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiramiro2&show_owner&theme=blue-green)
+![Ramiro GitHub Language Used](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiramiro2&show_owner=true&theme=blue-green)
 
 
 ---
