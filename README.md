@@ -1,6 +1,8 @@
 # Links
->Linkedin<
+>Linkedin
 <link>https://www.linkedin.com/in/oliveiramiro2/</link>
 
->Itch<
+---
+
+>Itch
 <link>https://oliveiramiro2.itch.io/</link>
